@@ -19,14 +19,13 @@ Base de données : MySQL.
 
 # Architecture
 
-![architecture](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/a3c70df5-1f95-4aa2-b303-927105108dd1)
+![architecture](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/46ada3e8-da3f-4367-86c3-8410f22a27e9)
 
 Cette architecture favorise la séparation claire des responsabilités, ce qui facilite la maintenance et la modularité de l'application.Et permet également une évolutivité future comme  l'ajout de nouvelles fonctionnalités ou en intégrant d'autres systèmes.
 
 # Use case Digital Banking
 
-![Screenshot (74)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/9b7cbed3-d9fb-4d2c-9419-2a61972ec641)
-
+![Screenshot (74)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/e6417a53-1735-4127-aa24-1ee13af4192a)
 
 
 # Video de Demonstration                                       
