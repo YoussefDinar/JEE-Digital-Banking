@@ -16,6 +16,12 @@ Base de données : MySQL.
 ![architecture](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/a3c70df5-1f95-4aa2-b303-927105108dd1)
 
 
+# Use case Digital Banking
+
+![Screenshot (74)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/9b7cbed3-d9fb-4d2c-9419-2a61972ec641)
+
+
+
 Video de Demonstration                                       
 https://drive.google.com/file/d/1GFr1jqFRxIcoQZa9te9MmNqG_ETl6S_a/view?usp=sharing
 
