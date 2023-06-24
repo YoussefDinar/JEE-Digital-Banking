@@ -8,8 +8,8 @@ PACKAGES:
 
 Screens du code source :
 
-# Les DTOs sont des conteneurs qui encapsulent les données nécessaires à un transfert spécifique. Ils regroupent des données provenant de différentes entités ou simplifient la structure des données lors des échanges au sein de l'application,
-et garantit une séparation claire entre la logique métier de l'application et la représentation des données. Elle permet de transmettre uniquement les données requises sans révéler les détails internes des entités ou des modèles de données sous-jacents.
+# Les DTOs sont des conteneurs qui encapsulent les données nécessaires à un transfert spécifique. Ils regroupent des données provenant de différentes entités ou simplifient la structure des données lors des échanges au sein de l'application.
+# Et garantit une séparation claire entre la logique métier de l'application et la représentation des données. Elle permet de transmettre uniquement les données requises sans révéler les détails internes des entités ou des modèles de données sous-jacents.
 
 ![Screenshot (6)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/4be5d9c2-b806-4ec1-9280-33e30eb9f1ab)
 
