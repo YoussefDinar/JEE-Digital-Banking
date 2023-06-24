@@ -116,7 +116,9 @@ H2-DATABASE:
 
 ![h2](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/b77df9f6-70e5-4232-b96d-48965d69d837)
 
-PHPMYADMIN:
+Base de donnees MySQL:
+
+# La base de données MySQL est utilisée comme système de stockage pour les informations concernant les clients, les comptes bancaires et les opérations. Son modèle relationnel est adapté à la persistance des données et permet d'assurer leur intégrité et leur cohérence.
 
 ![phpmyadmin](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/97da430e-af3e-4dff-b2cf-3466f87f4d00)
 
