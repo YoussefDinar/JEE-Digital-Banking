@@ -63,6 +63,7 @@ enums:
 
 ![Screenshot (22)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/313588ba-8262-4475-9271-f8f4be112782)
 
+exceptions:
 
 ![Screenshot (23)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/cdb53d6b-8b76-495b-8eb2-c30b67c9dc77)
 
