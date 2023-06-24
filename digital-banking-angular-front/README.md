@@ -1,5 +1,5 @@
 
-# JEE Activities (encadrant : Professeur Mohamed YOUSSFI)
+# Projet JEE-Digital-Banking (encadrant : Professeur Mohamed YOUSSFI)
 
 ![Directories](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/459ff253-726f-42d5-8623-9db9a31f4e03)
 
