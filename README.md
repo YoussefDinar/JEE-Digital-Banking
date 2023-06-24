@@ -21,6 +21,7 @@ Base de données : MySQL.
 
 ![architecture](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/a3c70df5-1f95-4aa2-b303-927105108dd1)
 
+Cette architecture favorise la séparation claire des responsabilités, ce qui facilite la maintenance et la modularité de l'application.Et permet également une évolutivité future comme  l'ajout de nouvelles fonctionnalités ou en intégrant d'autres systèmes.
 
 # Use case Digital Banking
 
@@ -30,6 +31,7 @@ Base de données : MySQL.
 
 # Video de Demonstration                                       
 https://drive.google.com/file/d/1GFr1jqFRxIcoQZa9te9MmNqG_ETl6S_a/view?usp=sharing
+
 
 
 
