@@ -6,7 +6,7 @@
 
 ![Directories](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/459ff253-726f-42d5-8623-9db9a31f4e03)
 
-Execution du Projet Angular:
+# Execution du Projet Angular:
 
 La commande 'ng serve' est exécutée à partir de la racine du projet pour compiler le code source du projet, 
 transpiler le code TypeScript en JavaScript et démarrer un serveur web local basé sur Node.js afin de déployer l'application localement.
