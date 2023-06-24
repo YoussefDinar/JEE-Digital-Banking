@@ -11,6 +11,9 @@ Frontend : Angular, HTML, CSS, TypeScript.
 Outils de developpement : Maven, Git.
 Base de données : MySQL.
 
+# Architecture
+
+![architecture](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/a3c70df5-1f95-4aa2-b303-927105108dd1)
 
 
 Video de Demonstration                                       
