@@ -124,9 +124,13 @@ Base de donnees MySQL:
 
 FetchType Lazy:
 
+L'utilisation de FetchType.LAZY peut être bénéfique pour optimiser les performances et minimiser la quantité de données chargées en mémoire. Cela permet d'éviter le chargement d'associations potentiellement coûteuses ou inutiles si elles ne sont pas utilisées dans le contexte actuel.
+
 ![lazy](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/1a57efa0-b637-4905-8f7d-d7830997e37a)
 
 FetchType Eager:
+
+L'utilisation de FetchType.EAGER peut être pratique lorsque vous savez que les données associées seront fréquemment utilisées ou nécessaires dans la plupart des cas d'utilisation. Cela évite les requêtes supplémentaires pour charger ces données à chaque fois qu'elles sont requises.
 
 ![eager](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/9f96e4c6-dd57-4a57-9058-062f11d492ef)
 
