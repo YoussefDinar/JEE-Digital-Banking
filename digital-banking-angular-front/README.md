@@ -37,80 +37,68 @@ Account Details:
 
 Screens du code source :
 
-![Screenshot (40)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/deceffff-78fd-41bb-8b12-18358b56d6fa)
 
-![Screenshot (41)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/a7d532ad-4cf2-4286-a530-74a01ecc2226)
+![Screenshot (40)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/cb289327-6712-4607-8826-c6aa106806e6)
 
-![Screenshot (42)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/e69bb986-bb12-4a64-9248-803f080bc70e)
+![Screenshot (41)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/1d3d130e-6e44-43ac-a1a1-5491f32a23c3)
 
-![Screenshot (43)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/d1abd002-c5dc-4217-a1d2-ffcde3898e59)
+![Screenshot (42)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/dd5d7586-927f-4f3c-9793-9db1efcac6e7)
 
-![Screenshot (44)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/d66bbe00-0281-4eb2-b99c-676444c7561f)
+![Screenshot (43)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/d75acc47-06bc-4bff-9d32-1ea674461ea8)
 
-![Screenshot (45)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/f587eec7-8645-427c-b4bf-d962d6fac8e2)
+![Screenshot (44)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/7f9baa84-bb5a-4f1a-b0e0-e022cca119dd)
 
-![Screenshot (46)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/e8df8046-127a-4bd7-ac39-a36219cadb70)
+![Screenshot (45)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/ca9824fc-a418-4694-8a60-0fdfb1a188fc)
 
-![Screenshot (47)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/eb1a4bb5-5ff3-471d-8a79-06a39083c7c9)
+![Screenshot (46)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/f3f48855-60d9-4038-bc62-e60952279c89)
 
-![Screenshot (48)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/446f9806-aae4-48f0-a82a-32c614ccb140)
+![Screenshot (47)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/90f31e90-3aaf-4aca-958f-6f8a24b63786)
 
-![Screenshot (49)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/3fb8d79c-5a57-480c-90db-93003d33d64b)
+![Screenshot (48)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/29f24026-aeb5-4e61-9ae6-dd609bff9986)
 
-![Screenshot (50)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/02efd055-98ad-4e42-a8ad-f821aa7bd9c3)
+![Screenshot (49)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/5a305938-dfce-43d5-af3b-1ee6f8fe4631)
 
-![Screenshot (51)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/3df40885-6bda-4b94-ba81-2cdb84133cc9)
+![Screenshot (50)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/8982295a-734a-4c1b-bb29-79d77782e87f)
 
-![Screenshot (52)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/fcde8c13-2e87-49cf-a3a5-3466ae507309)
+![Screenshot (51)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/c4b4069a-a7f7-4510-b33f-8ddbb40802e9)
 
-![Screenshot (53)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/b7e330fc-c983-4f41-bb00-768d6dfdfa03)
+![Screenshot (52)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/680cfd7f-58e6-49dc-b142-f11b39952cdb)
 
-![Screenshot (54)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/23adae59-4c4f-47f6-90ec-9dd6468c5e33)
+![Screenshot (53)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/f77fc86e-50c3-4ca6-9040-58c419be5882)
 
-![Screenshot (55)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/9d0c0e77-e5fe-4bec-b191-55bf6ef94fec)
+![Screenshot (54)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/06a0a8f6-0c8a-4106-8991-e6acde1cbfa2)
 
-![Screenshot (56)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/565633eb-cdd7-41b1-824d-4b85557ec612)
+![Screenshot (55)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/cd3a5644-6dc9-4e8a-88ae-106dddef6461)
 
-![Screenshot (57)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/b9081450-f509-463a-8512-aa7b91523200)
+![Screenshot (56)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/dbb99402-d437-4a2e-be5b-928d98412e9c)
 
-![Screenshot (58)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/09b5ce94-646e-4d79-af0b-7f94a0aac7f7)
+![Screenshot (57)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/bc35e00e-3b4d-4adc-bd43-eb26cfbea0c0)
 
-![Screenshot (59)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/cc7df7f2-fc71-4427-bc00-60ed8445ec1a)
+![Screenshot (58)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/e69a7c8a-26b4-4d2f-8960-31bc8e025d71)
 
-![Screenshot (60)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/65f87d42-ae47-4b49-8953-ecdee212329c)
+![Screenshot (59)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/57e2b1c6-217d-4f80-8066-8ea5afaef2a4)
 
-![Screenshot (61)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/cf263b35-3762-4b32-aec9-4039590220b3)
+![Screenshot (60)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/7f7ce01b-4829-4cbc-9cae-2e824a7c7803)
 
-![Screenshot (62)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/d2f1fded-5577-4063-82b3-82f07ea698ec)
+![Screenshot (61)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/66124744-1aa7-4963-8a58-5d3dc25ecfcf)
 
-![Screenshot (63)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/8cb35ec2-4f0d-44c2-9da0-96bf3ceabb50)
+![Screenshot (62)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/0907b967-7424-4b40-8551-1801ee9bb2f2)
 
-![Screenshot (67)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/6cfcac3b-7757-461e-8b2d-925a2f98985a)
+![Screenshot (63)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/fd062d0e-9e23-47ad-8b09-799775bf916e)
 
-![Screenshot (68)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/2a8b17cf-d3d7-4cda-bcba-2efc2bf8f818)
+![Screenshot (67)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/6e9525d3-6519-4f47-adaf-8c5cc954dd9e)
 
-![Screenshot (69)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/b85a1314-e045-4412-9de2-457939543e03)
+![Screenshot (68)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/2b68bec3-1b87-41d9-9695-1305398a0336)
 
-![Screenshot (70)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/d5822913-5b67-4b99-9346-6419ffd7c289)
+![Screenshot (69)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/8d155014-e85a-46fb-9e52-314d6297e509)
 
-![Screenshot (71)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/357c8f24-d771-4341-80df-698de7fca160)
+![Screenshot (70)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/a72aaef6-2d4a-4417-9205-88075d6bb587)
 
-![Screenshot (72)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/c17ea734-93ed-494d-a467-815fbcb6d272)
+![Screenshot (71)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/12b19b19-3702-4739-bde8-b2daa11a9ac1)
 
-![Screenshot (73)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/339c3c2b-2a5d-4e50-ab5e-b0b40421e006)
+![Screenshot (72)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/b792ca27-839f-4f9c-b3d4-da9834d7832d)
 
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot (73)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/290fe878-e2a5-4df1-8d8d-6f4e5af3b369)
 
 
 
