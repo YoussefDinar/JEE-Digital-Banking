@@ -103,6 +103,8 @@ Screens du code source :
 
 # La couche Backend (Contrôleur) regroupe la logique métier de l'application et est développée avec le framework Spring Boot, reconnu pour sa capacité à simplifier la création d'applications Java robustes. Les contrôleurs Spring Boot exposent des API REST qui permettent au frontend d'interagir avec les données et d'effectuer des opérations.
 
+Nous avons ajoute l'annotation [@CrossOrigin("*")] pour "BankAccountRestAPI" et "CustomerRestController" ,  cela va spécifier une configuration globale permettant d'accepter les requêtes cross-origin depuis n'importe quel domaine. En utilisant "*" comme paramètre, vous autorisez toutes les origines à accéder à l'API, ce qui peut être pratique lors du développement et du test de votre application et pour le transfert de données entre le back-end et le front-end.
+
 ![Screenshot (36)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/8a0ccc0f-819a-4f88-b3f5-9165c9832493)
 
 
