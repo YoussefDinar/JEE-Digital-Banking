@@ -25,10 +25,10 @@ Base de données : MySQL.
 Video de Demonstration                                       
 https://drive.google.com/file/d/1GFr1jqFRxIcoQZa9te9MmNqG_ETl6S_a/view?usp=sharing
 
-Liens vers E-Banking [BACKEND] + rapport (readme):
+# Liens vers E-Banking [BACKEND] + rapport (readme):
 https://github.com/YoussefDinar/JEE-Digital-Banking/tree/main/ebanking-backend
 
-Liens vers E-Banking [FRONTEND] + rapport (readme):
+# Liens vers E-Banking [FRONTEND] + rapport (readme):
 https://github.com/YoussefDinar/JEE-Digital-Banking/tree/main/digital-banking-angular-front
 
 
