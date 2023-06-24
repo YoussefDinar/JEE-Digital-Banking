@@ -73,9 +73,11 @@ exceptions:
 
 ![Screenshot (25)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/1f5ad9e9-ffbe-4ec2-985c-66df4dff7f5e)
 
+mapper:
 
 ![Screenshot (26)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/9cd82013-f1ee-4690-868f-f8e6ad197fda)
 
+repositories:
 
 ![Screenshot (27)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/518d3779-6c5f-4224-ad4c-930feed096f6)
 
