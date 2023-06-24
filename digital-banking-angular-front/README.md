@@ -2,7 +2,7 @@
 # Projet JEE-Digital-Banking (encadrant : Professeur Mohamed YOUSSFI)
 (front-end)
 
-La couche Frontend (Vue) est chargée de la création de l'interface utilisateur de l'application. Elle est mise en œuvre à l'aide du framework Angular, qui offre la possibilité de concevoir une interface utilisateur dynamique et réactive. Les composants Angular de cette couche interagissent avec la couche Backend pour obtenir les données requises et exécuter les opérations nécessaires.
+# La couche Frontend (Vue) est chargée de la création de l'interface utilisateur de l'application. Elle est mise en œuvre à l'aide du framework Angular, qui offre la possibilité de concevoir une interface utilisateur dynamique et réactive. Les composants Angular de cette couche interagissent avec la couche Backend pour obtenir les données requises et exécuter les opérations nécessaires.
 
 ![Directories](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/459ff253-726f-42d5-8623-9db9a31f4e03)
 
