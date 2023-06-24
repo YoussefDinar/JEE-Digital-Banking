@@ -37,6 +37,7 @@ Screens du code source :
 
 ![Screenshot (14)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/99219e99-1460-4486-8eba-2ac035d4ac21)
 
+entities:
 
 ![Screenshot (15)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/6324845c-93f2-4422-9a88-55fcb0f286e6)
 
