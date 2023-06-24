@@ -56,6 +56,7 @@ entities:
 
 ![Screenshot (20)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/ba9b13fb-d1d5-4b1c-aa0d-a6dca5cd9dbf)
 
+enums:
 
 ![Screenshot (21)](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/ea27a316-2417-4dd2-a6c4-87a87ee3f866)
 
