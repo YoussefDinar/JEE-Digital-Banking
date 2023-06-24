@@ -10,6 +10,7 @@ Execution du Projet Angular:
 
 La commande 'ng serve' est exécutée à partir de la racine du projet pour compiler le code source du projet, 
 transpiler le code TypeScript en JavaScript et démarrer un serveur web local basé sur Node.js afin de déployer l'application localement.
+Et par defaut : L'accès à l'application se fait via l'URL http://localhost:4200/
 
 Save account:
 ![testsave](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/c33852bf-c0fc-401e-bd8f-3ee954f3b954)
