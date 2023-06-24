@@ -1,4 +1,4 @@
-# JEE Activities (encadrant : Professeur Mohamed YOUSSFI)
+# Projet JEE-Digital-Banking (encadrant : Professeur Mohamed YOUSSFI)
 
 
 PACKAGES:
