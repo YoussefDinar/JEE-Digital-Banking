@@ -4,7 +4,8 @@
 
 # La couche Frontend (Vue) est chargée de la création de l'interface utilisateur de l'application. Elle est mise en œuvre à l'aide du framework Angular, qui offre la possibilité de concevoir une interface utilisateur dynamique et réactive. Les composants Angular de cette couche interagissent avec la couche Backend pour obtenir les données requises et exécuter les opérations nécessaires.
 
-![Directories](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/459ff253-726f-42d5-8623-9db9a31f4e03)
+![Directories](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/5293acc0-7027-48d1-906d-89711e338fb9)
+
 
 # Execution du Projet Angular:
 
@@ -13,22 +14,26 @@ transpiler le code TypeScript en JavaScript et démarrer un serveur web local ba
 Et par defaut : L'accès à l'application se fait via l'URL http://localhost:4200/
 
 Save account:
-![testsave](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/c33852bf-c0fc-401e-bd8f-3ee954f3b954)
-![savedone](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/99ca212f-fe62-443f-80ea-f3ced9078d3e)
+![testsave](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/6e404f64-a0e2-4d58-8932-877475daad31)
+![savedone](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/6dc4d6a1-194b-4ac2-ab3a-5d495243d151)
+
 
 Les comptes:
-![affch compte](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/24133092-f608-4e1c-bd0b-20225260a4e7)
+![affch compte](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/255ce290-dda1-42db-9756-fcdd176e2346)
+
 
 Recherche:
-![search](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/6e50d23f-819b-4ead-bfb2-71cc143609d6)
+![search](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/25efee3c-2c1e-4cb2-bf58-9d8b49a639b3)
 
 Delete account:
-![delete](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/fb88f479-ace3-4e72-ac5d-e2116adf899c)
-![deletedone](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/f8629401-7982-432c-a227-17e311a90a8b)
+![delete](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/4520a42b-6f06-4996-b7f5-edb4e9836a47)
+![deletedone](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/ad05a5d5-be77-49e1-a833-9b296b92fea8)
+
 
 Account Details:
-![account details](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/87e0eb5d-ba34-41ee-83ad-3f87ec53418c)
-![accountsPage](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/f4939f9c-4947-4650-aa82-c8bb834c8cc0)
+![account details](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/8a5457f7-bce4-4073-814d-c0663bc27c65)
+![accountsPage](https://github.com/YoussefDinar/JEE-Digital-Banking/assets/94021293/45062441-f1cd-45a3-86ef-f3684e8fa594)
+
 
 Screens du code source :
 
