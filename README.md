@@ -1,9 +1,9 @@
 # Encadré par: [Professeur Mohamed YOUSSFI]
 # TP5 Parts(1-2-3-4)
 - Projet de fin de semestre JEE-Digital-Banking
-# Liens vers E-Banking [BACKEND] + rapport (readme):
+# Lien vers E-Banking [BACKEND] + rapport (readme):
 https://github.com/YoussefDinar/JEE-Digital-Banking/tree/main/ebanking-backend
-# Liens vers E-Banking [FRONTEND] + rapport (readme):
+# Lien vers E-Banking [FRONTEND] + rapport (readme):
 https://github.com/YoussefDinar/JEE-Digital-Banking/tree/main/digital-banking-angular-front
 
 # Video de Demonstration                                       
